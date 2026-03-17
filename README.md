@@ -45,4 +45,4 @@ Bu repo “study notes” niteliğindedir. Bazı kısımlar eksik olabilir veya 
 Issue/PR ile katkı ve geri bildirim memnuniyetle karşılanır.
 
 ### Ekran Görüntüleri | Screenshots
-<img width="1906" height="614" alt="image" src="https://github.com/user-attachments/assets/32db913c-88d6-47fd-bf13-3e6f6a40b02f" />
+<img width="1909" height="645" alt="image" src="https://github.com/user-attachments/assets/066cb2c1-3714-4444-8cd5-e6e59302c884" />
