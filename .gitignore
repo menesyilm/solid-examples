@@ -1,0 +1,10 @@
+# Build outputs
+bin/
+obj/
+
+# VS files
+.vs/
+*.user
+
+# NuGet
+*.nupkg
